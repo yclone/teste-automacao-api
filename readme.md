@@ -11,7 +11,7 @@ Automatizar um teste de API no sistema Reqres.in
 
 * java
 * rest-assured
-5. TestNg ou Junit
+* TestNg ou Junit
 
 ## Entrega do Projeto
 
