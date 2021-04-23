@@ -1,6 +1,6 @@
 ## Objetivo
 
-Automatizar um teste de API no sistema Reqres.in
+Automatizar um teste de API
  
 #### Cenário a ser automatizado
 
@@ -12,15 +12,3 @@ Automatizar um teste de API no sistema Reqres.in
 * java
 * rest-assured
 * TestNg ou Junit
-
-## Entrega do Projeto
-
-Faça um *Fork* do projeto atual
-
-#### O que será avaliado
-
-* lógica
-* boa organização do código
-* domínio das ferramentas
-
-Boa sorte!
